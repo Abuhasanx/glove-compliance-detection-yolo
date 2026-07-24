@@ -1,4 +1,4 @@
-# 🧤 Gloved vs Ungloved Hand Detection
+#  Gloved vs Ungloved Hand Detection
 
 **Author:** Abu Hasan  
 **Contact:** abuhasanxs@gmail.com  
@@ -16,12 +16,12 @@ The system distinguishes between two states:
 
 | Detection | Label | Color |
 |-----------|-------|-------|
-| Worker wearing gloves | `GLOVED` | 🔵 Blue |
-| Worker not wearing gloves | `UN GLOVED` | 🔴 Red |
+| Worker wearing gloves | `GLOVED` |  Blue |
+| Worker not wearing gloves | `UN GLOVED` |  Red |
 
 ---
 
-## 🗂️ Datasets
+##  Datasets
 
 | Source | Usage |
 |--------|-------|
@@ -36,7 +36,7 @@ The system distinguishes between two states:
 
 ---
 
-## 🏋️ Training
+##  Training
 
 | Parameter | Value |
 |-----------|-------|
@@ -49,7 +49,7 @@ The system distinguishes between two states:
 
 ---
 
-## ⚙️ How to Use
+##  How to Use
 
 ### 1. Install Requirements
 
@@ -123,7 +123,7 @@ Example JSON log:
 
 ---
 
-## 🧠 Script Highlights
+##  Script Highlights
 
 - ✅ Supports both `.pt` (PyTorch) and `.onnx` model formats — switch with one line
 - ✅ Per-class confidence filtering on top of a global low threshold
@@ -133,10 +133,10 @@ Example JSON log:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
-├── inference.py          # Main inference script
+├── detection_script.py          # Main inference script
 ├── requirements.txt      # Python dependencies
 ├── best.pt               # YOLOv8s trained weights (PyTorch)
 ├── best.onnx             # Exported ONNX model
@@ -146,7 +146,7 @@ Example JSON log:
 
 ---
 
-## ⚠️ Important Note on Real-World Accuracy
+##  Important Note on Real-World Accuracy
 
 > Detection models like this are **highly context-dependent**.
 >
@@ -158,7 +158,7 @@ Example JSON log:
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 Install via:
 
