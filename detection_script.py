@@ -8,7 +8,7 @@
 # Dataset : https://www.kaggle.com/datasets/yashdev01/gloves-and-bare-hands-datasets
 # NOTE : DID THIS WORK UNDER 24 HRS OF TIME
 # GLOVED AND UNGLOVED DATA HAS BEEN COLLECTED MANUALLY , 500 UNGLOVED AND 500 GLOVED WITH AUGMENTATION
-# YOLO26s AND ONNX MODEL
+
 
 
 #######################################################################################################
