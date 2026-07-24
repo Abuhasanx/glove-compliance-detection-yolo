@@ -1,0 +1,105 @@
+{
+  "filename": "image5.png",
+  "detections": [
+    {
+      "label": "GLOVED",
+      "confidence": 0.8682,
+      "bbox": [
+        281.15,
+        186.71,
+        301.14,
+        212.92
+      ]
+    },
+    {
+      "label": "GLOVED",
+      "confidence": 0.8468,
+      "bbox": [
+        736.51,
+        311.33,
+        774.55,
+        337.56
+      ]
+    },
+    {
+      "label": "GLOVED",
+      "confidence": 0.8299,
+      "bbox": [
+        244.85,
+        249.51,
+        269.22,
+        276.15
+      ]
+    },
+    {
+      "label": "GLOVED",
+      "confidence": 0.8273,
+      "bbox": [
+        318.31,
+        181.02,
+        341.9,
+        209.97
+      ]
+    },
+    {
+      "label": "GLOVED",
+      "confidence": 0.7509,
+      "bbox": [
+        586.32,
+        314.82,
+        631.53,
+        335.79
+      ]
+    },
+    {
+      "label": "GLOVED",
+      "confidence": 0.7298,
+      "bbox": [
+        591.61,
+        283.2,
+        632.28,
+        314.75
+      ]
+    },
+    {
+      "label": "GLOVED",
+      "confidence": 0.7073,
+      "bbox": [
+        730.94,
+        269.54,
+        767.08,
+        301.89
+      ]
+    },
+    {
+      "label": "GLOVED",
+      "confidence": 0.6813,
+      "bbox": [
+        701.01,
+        162.79,
+        727.91,
+        180.9
+      ]
+    },
+    {
+      "label": "GLOVED",
+      "confidence": 0.5297,
+      "bbox": [
+        612.68,
+        145.71,
+        639.21,
+        164.28
+      ]
+    },
+    {
+      "label": "GLOVED",
+      "confidence": 0.3568,
+      "bbox": [
+        693.21,
+        137.81,
+        725.59,
+        158.37
+      ]
+    }
+  ]
+}

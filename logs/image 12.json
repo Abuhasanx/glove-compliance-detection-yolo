@@ -1,0 +1,25 @@
+{
+  "filename": "image 12.png",
+  "detections": [
+    {
+      "label": "UN GLOVED",
+      "confidence": 0.9394,
+      "bbox": [
+        465.1,
+        525.22,
+        557.27,
+        657.7
+      ]
+    },
+    {
+      "label": "UN GLOVED",
+      "confidence": 0.9156,
+      "bbox": [
+        339.86,
+        529.68,
+        419.31,
+        639.61
+      ]
+    }
+  ]
+}

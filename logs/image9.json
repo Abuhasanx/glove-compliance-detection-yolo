@@ -1,0 +1,25 @@
+{
+  "filename": "image9.png",
+  "detections": [
+    {
+      "label": "GLOVED",
+      "confidence": 0.8981,
+      "bbox": [
+        644.7,
+        413.9,
+        709.24,
+        503.78
+      ]
+    },
+    {
+      "label": "GLOVED",
+      "confidence": 0.8673,
+      "bbox": [
+        807.78,
+        378.32,
+        861.56,
+        463.81
+      ]
+    }
+  ]
+}

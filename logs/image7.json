@@ -1,0 +1,45 @@
+{
+  "filename": "image7.png",
+  "detections": [
+    {
+      "label": "GLOVED",
+      "confidence": 0.9677,
+      "bbox": [
+        350.42,
+        318.49,
+        465.93,
+        393.3
+      ]
+    },
+    {
+      "label": "GLOVED",
+      "confidence": 0.8333,
+      "bbox": [
+        343.59,
+        433.04,
+        476.62,
+        498.76
+      ]
+    },
+    {
+      "label": "UN GLOVED",
+      "confidence": 0.7909,
+      "bbox": [
+        638.02,
+        434.03,
+        743.34,
+        499.84
+      ]
+    },
+    {
+      "label": "UN GLOVED",
+      "confidence": 0.6407,
+      "bbox": [
+        629.81,
+        331.84,
+        738.65,
+        401.59
+      ]
+    }
+  ]
+}
