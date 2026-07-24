@@ -30,7 +30,7 @@ The system distinguishes between two states:
 | Manually scraped from Kaggle + other platforms | Additional diversity |
 
 - **500 gloved** images + **500 ungloved** images collected and separated manually
-- Annotations approved manually in Roboflow (due to limited credits)
+- Annotations approved manually in Roboflow (worked with limited credits)
 - Augmentations applied: **Rotate, Flip, Blur, Tilt**
 - ⚠️ Colour-grade / Hue / Saturation augmentations intentionally avoided to prevent the model from learning spurious colour shortcuts
 
