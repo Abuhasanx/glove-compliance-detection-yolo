@@ -35,6 +35,7 @@ The system distinguishes between two states:
 - ⚠️ Colour-grade / Hue / Saturation augmentations intentionally avoided to prevent the model from learning spurious colour shortcuts
 
 ---
+<img width="847" height="768" alt="image 12" src="https://github.com/user-attachments/assets/71515b1d-beed-4f4b-b5ce-ba16771b05cf" /><img width="681" height="768" alt="image3" src="https://github.com/user-attachments/assets/9ecc0a64-2404-4026-8ee4-48fde0c68785" />
 
 ##  Training
 
