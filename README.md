@@ -3,7 +3,7 @@
 **Author:** Abu Hasan  
 **Contact:** abuhasanxs@gmail.com  
 **Task Type:** Safety Compliance — Object Detection  
-**Model:** YOLOv8s (`.pt`) / ONNX (`.onnx`)  
+**Model:** YOLO26s (`.pt`) / ONNX (`.onnx`)  
 **Completed in:** Under 24 hours
 
 ---
@@ -42,7 +42,7 @@ The system distinguishes between two states:
 |-----------|-------|
 | Platform | Google Colab |
 | Framework | Ultralytics YOLO |
-| Model | YOLOv8s (`yolov8s`) → exported to ONNX |
+| Model | YOLO26s (`yolo26s`) → exported to ONNX |
 | Epochs | 150 |
 | Annotation Tool | Roboflow (manual approval per image) |
 | Export | `.pt` (PyTorch) + `.onnx` |
